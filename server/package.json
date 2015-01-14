@@ -1,5 +1,5 @@
 {
-  "name": "order",
+  "name": "server",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -30,7 +30,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wesr/order.git"
+    "url": "git://github.com/wesr/server.git"
   },
   "author": "wesr",
   "license": ""
